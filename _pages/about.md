@@ -28,7 +28,7 @@ I am Mingzhe Li(李明哲), an Undergraduate student(Sept.2021 - Jun.2025) at Sc
 
 # 📝 Preprints
 
-[Effective and Evasive Fuzz Testing-Driven Jailbreaking Attacks against LLMs.](https://arxiv.org/abs/2409.14866)
+**[Effective and Evasive Fuzz Testing-Driven Jailbreaking Attacks against LLMs.](https://arxiv.org/abs/2409.14866)**
 
 Xueluan Gong, **Mingzhe Li**(co-first author), Yilin Zhang, Fengyuan Ran, Chen Chen, Yanjiao Chen, Qian Wang, Kwok-Yan Lam
 
@@ -36,7 +36,7 @@ Xueluan Gong, **Mingzhe Li**(co-first author), Yilin Zhang, Fengyuan Ran, Chen C
 
 # 📝 Publications 
 
-Augmenting Model Extraction Attacks against Disruption-Based Defenses.
+**Augmenting Model Extraction Attacks against Disruption-Based Defenses.**
 
 Xueluan Gong, Shuaike Li, Yanjiao Chen,  **Mingzhe Li**, Rubin Wei, Qian Wang and Kwok Yan Lam
 
