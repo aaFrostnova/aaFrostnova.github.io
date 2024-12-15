@@ -36,7 +36,7 @@ Xueluan Gong, **Mingzhe Li**(co-first author), Yilin Zhang, Fengyuan Ran, Chen C
 
 # 📝 Publications 
 
-**Augmenting Model Extraction Attacks against Disruption-Based Defenses.**
+**[Augmenting Model Extraction Attacks against Disruption-Based Defenses.](https://ieeexplore.ieee.org/document/10793405)**
 
 Xueluan Gong, Shuaike Li, Yanjiao Chen,  **Mingzhe Li**, Rubin Wei, Qian Wang and Kwok Yan Lam
 
