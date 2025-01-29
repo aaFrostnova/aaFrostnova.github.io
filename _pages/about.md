@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 
 
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -26,21 +27,21 @@ I am Mingzhe Li(李明哲), an Undergraduate student(Sept.2021 - Jun.2025) at Sc
 
 # 🔥 News
 
-# 📝 Preprints
-
-**[Effective and Evasive Fuzz Testing-Driven Jailbreaking Attacks against LLMs.](https://arxiv.org/abs/2409.14866)**
-
-Xueluan Gong, **Mingzhe Li**(co-first author), Yilin Zhang, Fengyuan Ran, Chen Chen, Yanjiao Chen, Qian Wang, Kwok-Yan Lam
-
-***arxiv 2024.9***
+- *2025.01*: &nbsp;🎉🎉  1 paper is accepted to Usenix Security 2025.
 
 # 📝 Publications 
 
-**[Augmenting Model Extraction Attacks against Disruption-Based Defenses.](https://ieeexplore.ieee.org/document/10793405)**
+- **[PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs](https://arxiv.org/abs/2409.14866)**
 
-Xueluan Gong, Shuaike Li, Yanjiao Chen,  **Mingzhe Li**, Rubin Wei, Qian Wang and Kwok Yan Lam
+  Xueluan Gong*, **Mingzhe Li\***, Yilin Zhang, Fengyuan Ran, Chen Chen, Yanjiao Chen, Qian Wang, Kwok-Yan Lam
 
-***Transactions on Information Forensics & Security (TIFS 2024)***
+  ***Usenix Security 2025***, **\* indicates equal contribution**
+
+- **[Augmenting Model Extraction Attacks against Disruption-Based Defenses](https://ieeexplore.ieee.org/document/10793405)** 
+
+  Xueluan Gong, Shuaike Li, Yanjiao Chen,  **Mingzhe Li**, Rubin Wei, Qian Wang and Kwok Yan Lam
+
+  ***Transactions on Information Forensics & Security (TIFS)***
 
 # 🎖 Honors and Awards
 
@@ -51,4 +52,3 @@ Xueluan Gong, Shuaike Li, Yanjiao Chen,  **Mingzhe Li**, Rubin Wei, Qian Wang an
 - Third Prize in the Hubei Province College Student Mathematics Competition    Mar. 2023
 - “Merit Student” Honorary Title, Twice    Sept. 2023 & Sept. 2022
 - “Active Participant in Social Activities” Honorary Title     Jun. 2022
-
