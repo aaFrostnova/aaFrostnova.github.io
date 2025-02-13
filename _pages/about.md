@@ -48,7 +48,6 @@ I am Mingzhe Li(李明哲), an Undergraduate student(Sept.2021 - Jun.2025) at Sc
 - National Second Prize in Contemporary Undergraduate Math Contest in Modeling, Top 2% nationwide    Nov. 2023
 - Second Prize in the Chinese Collegiate Computing Competition    Jun. 2023
 - Second Prize in the “Huazhong Cup” College Student Mathematics Modeling Challenge    May 2023
-- “Excellent Member of Communist Youth League” Honorary Title    May 2023
 - Third Prize in the Hubei Province College Student Mathematics Competition    Mar. 2023
 - “Merit Student” Honorary Title, Twice    Sept. 2023 & Sept. 2022
 - “Active Participant in Social Activities” Honorary Title     Jun. 2022
