@@ -50,7 +50,7 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 # 🎖 Honors and Awards
 
-- National Second Prize in Contemporary Undergraduate Math Contest in Modeling, Top 2% nationwide    Nov. 2023
+- National Second Prize in Contemporary Undergraduate Math Contest in Modeling, **Top 2% nationwide**    Nov. 2023
 - Second Prize in the Chinese Collegiate Computing Competition    Jun. 2023
 - Second Prize in the “Huazhong Cup” College Student Mathematics Modeling Challenge    May 2023
 - Third Prize in the Hubei Province College Student Mathematics Competition    Mar. 2023
