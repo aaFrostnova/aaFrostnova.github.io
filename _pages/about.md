@@ -56,3 +56,11 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 - Third Prize in the Hubei Province College Student Mathematics Competition    Mar. 2023
 - “Merit Student” Honorary Title, Twice    Sept. 2023 & Sept. 2022
 - “Active Participant in Social Activities” Honorary Title     Jun. 2022
+
+# 📖 Educations
+- *2021.09 - Present*, Undergraduate, [School of Cyber Science And Engineering, Wuhan University](https://cse.whu.edu.cn)  
+- *2018.09 - 2021.06*, Senior Middle School, [the No.1 Middle School Affiliated to Central China Normal University](https://www.hzsdyfz.com.cn)
+
+
+# 💻 Internships
+- *2025.02 - Present*, [ByteDance](https://www.bytedance.com/zh/), Shenzhen, China.
