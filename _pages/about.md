@@ -20,7 +20,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Mingzhe Li(李明哲), an Undergraduate student(Sept.2021 - Jun.2025) at School of Cyber Science And Engineering, Wuhan University, fortunately advised by Prof. [Qian Wang]([NIS&P Lab](http://nisplab.whu.edu.cn/people.html)). My research focuses on **artificial intelligence security and privacy, Responsible Generative AI**.
+I am Mingzhe Li(李明哲), an Undergraduate student(Sept.2021 - Jun.2025) at [School of Cyber Science And Engineering, Wuhan University](https://cse.whu.edu.cn), fortunately advised by Prof. [Qian Wang]([NIS&P Lab](http://nisplab.whu.edu.cn/people.html)). Before my time at WHU, I completed three years of study at the No.1 Middle School Affiliated to Central China Normal University [（华中师大一附中）](https://www.hzsdyfz.com.cn). 
+
+I will join [Manning College of Information & Computer Sciences, Umass Amherst](https://www.cics.umass.edu) as a PhD student in 2025 fall, advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/).
+
+My research focuses on **artificial intelligence security and privacy, Responsible Generative AI**.
+
 
 
 
