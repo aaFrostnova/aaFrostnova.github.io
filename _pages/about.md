@@ -59,7 +59,7 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 # 📖 Educations
 - *2021.09 - Present*, Undergraduate, [School of Cyber Science And Engineering, Wuhan University](https://cse.whu.edu.cn)  
-- *2018.09 - 2021.06*, Senior Middle School, [the No.1 Middle School Affiliated to Central China Normal University](https://www.hzsdyfz.com.cn)
+- *2018.09 - 2021.06*, Senior Middle School Student, [the No.1 Middle School Affiliated to Central China Normal University](https://www.hzsdyfz.com.cn)
 
 
 # 💻 Internships
