@@ -32,6 +32,7 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 # 🔥 News
 
+- *2025.04*" &nbsp;🎉🎉  I am selected as an outstanding undergraduate graduate.
 - *2025.01*: &nbsp;🎉🎉  1 paper is accepted to Usenix Security 2025.
 
 # 📝 Publications 
@@ -49,7 +50,7 @@ My research focuses on **artificial intelligence security and privacy, Responsib
   ***Transactions on Information Forensics & Security (TIFS)***
 
 # 🎖 Honors and Awards
-
+- Outstanding Undergraduate Graduate, WHU    Apr. 2025
 - National Second Prize in Contemporary Undergraduate Math Contest in Modeling, **Top 2% nationwide**    Nov. 2023
 - Second Prize in the Chinese Collegiate Computing Competition    Jun. 2023
 - Second Prize in the “Huazhong Cup” College Student Mathematics Modeling Challenge    May 2023
