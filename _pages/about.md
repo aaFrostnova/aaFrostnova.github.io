@@ -32,7 +32,7 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 # 🔥 News
 
-- *2025.04*" &nbsp;🎉🎉  I am selected as an outstanding undergraduate graduate.
+- *2025.04* &nbsp;🎉🎉  I am selected as an outstanding undergraduate graduate.
 - *2025.01*: &nbsp;🎉🎉  1 paper is accepted to Usenix Security 2025.
 
 # 📝 Publications 
