@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mingzhe Li"
   avatar           : "images/profile.png"
-  bio              : "Wuhan University"
-  location         : "Wuhan, China"
+  bio              : "University of Massachusetts, Amherst"
+  location         : "Amherst, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KW2njVUAAAAJ"
-  email            : "mingzhel1183@gmail.com"
+  email            : "mingzhel@umass.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
