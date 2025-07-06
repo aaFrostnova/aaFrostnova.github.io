@@ -37,6 +37,12 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 # 📝 Publications 
 
+- **[EDITOR: EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models](https://arxiv.org/abs/2506.03067)**
+
+Mingzhe Li, Gehao Zhang, Zhenting Wang, Shiqing Ma, Siqi Pan, Richard Cartwright, Juan Zhai
+
+  ***Preprint***
+
 - **[PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs](https://arxiv.org/abs/2409.14866)**
 
   Xueluan Gong*, **Mingzhe Li\***, Yilin Zhang, Fengyuan Ran, Chen Chen, Yanjiao Chen, Qian Wang, Kwok-Yan Lam
