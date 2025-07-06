@@ -39,7 +39,7 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 - **[EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models](https://arxiv.org/abs/2506.03067)**
 
-  Mingzhe Li, Gehao Zhang, Zhenting Wang, Shiqing Ma, Siqi Pan, Richard Cartwright, Juan Zhai
+  **Mingzhe Li**, Gehao Zhang, Zhenting Wang, Shiqing Ma, Siqi Pan, Richard Cartwright, Juan Zhai
 
   ***Preprint***
 
