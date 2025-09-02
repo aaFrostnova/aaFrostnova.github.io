@@ -20,7 +20,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello👋! I am Mingzhe Li(李明哲), a first-year Ph.D student at University of Massachusetts, Amherst, advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/).
+Hello👋! I am Mingzhe Li(李明哲), a first-year Ph.D student at [University of Massachusetts, Amherst](https://www.umass.edu), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/).
 
 I received my B.Eng in Cyberspace Security from [Wuhan University](https://cse.whu.edu.cn) in 2025. Before my time at WHU, I completed three years of study at the No.1 Middle School Affiliated to Central China Normal University [（华中师大一附中）](https://www.hzsdyfz.com.cn). 
 
@@ -65,7 +65,8 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 - “Active Participant in Social Activities” Honorary Title     Jun. 2022
 
 # 📖 Educations
-- *2021.09 - Present*, Undergraduate, [School of Cyber Science And Engineering, Wuhan University](https://cse.whu.edu.cn)  
+- *2025.09 - Present*, Ph.D Student, [University of Massachusetts, Amherst](https://www.umass.edu)
+- *2021.09 - 2025.06*, Undergraduate, [School of Cyber Science And Engineering, Wuhan University](https://cse.whu.edu.cn)  
 - *2018.09 - 2021.06*, Senior Middle School Student, [the No.1 Middle School Affiliated to Central China Normal University](https://www.hzsdyfz.com.cn)
 
 
