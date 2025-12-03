@@ -37,6 +37,12 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 # 📝 Publications 
 
+- **[PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization](https://www.arxiv.org/abs/2511.22119)**
+
+  **Mingzhe Li**, Renhao Zhang, Zhiyang Wen, Siqi Pan, Bruno Castro da Silva, Juan Zhai, Shiqing Ma
+
+  ***Preprint***
+
 - **[EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models](https://arxiv.org/abs/2506.03067)**
 
   **Mingzhe Li**, Gehao Zhang, Zhenting Wang, Shiqing Ma, Siqi Pan, Richard Cartwright, Juan Zhai
