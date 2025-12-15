@@ -32,8 +32,8 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 # 🔥 News
 - *2025.11* &nbsp;🚀🚀 PROMPTMINER released — code is now open-sourced.
-- *2025.04* &nbsp;🎉🎉  I am selected as an outstanding undergraduate graduate.
-- *2025.01*: &nbsp;🏆🏆  1 paper is accepted to Usenix Security 2025.
+- *2025.04* &nbsp;🏆🏆  I am selected as an outstanding undergraduate graduate.
+- *2025.01*: &nbsp;🎉🎉  1 paper is accepted to Usenix Security 2025.
 - *2024.12*: &nbsp;🎉🎉  1 paper is accepted to IEEE TIFS 2024.
 
 # 📝 Publications 
