@@ -31,10 +31,11 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 
 # 🔥 News
+- *2026.02* &nbsp;&nbsp;🎉🎉 1 paper is accepted to CVPR 2026.
 - *2025.11* &nbsp;🚀🚀 PROMPTMINER released — code is now open-sourced.
 - *2025.04* &nbsp;🏆🏆  I am selected as an outstanding undergraduate graduate.
 - *2025.01*: &nbsp;🎉🎉  1 paper is accepted to Usenix Security 2025.
-- *2024.12*: &nbsp;🎉🎉  1 paper is accepted to IEEE TIFS 2024.
+- *2024.12*: &nbsp;🎉🎉  1 paper is accepted to IEEE TIFS 2025.
 
 # 📝 Publications 
 
@@ -42,7 +43,7 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
   **Mingzhe Li**, Renhao Zhang, Zhiyang Wen, Siqi Pan, Bruno Castro da Silva, Juan Zhai, Shiqing Ma
 
-  ***Preprint***
+  ***CVPR 2026***
 
 - **[EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models](https://arxiv.org/abs/2506.03067)**
 
