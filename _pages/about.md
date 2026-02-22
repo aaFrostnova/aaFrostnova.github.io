@@ -43,7 +43,7 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
   **Mingzhe Li**, Renhao Zhang, Zhiyang Wen, Siqi Pan, Bruno Castro da Silva, Juan Zhai, Shiqing Ma
 
-  ***CVPR 2026***
+  ***Conference on Computer Vision and Pattern Recognition (CVPR 2026)***
 
 - **[EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models](https://arxiv.org/abs/2506.03067)**
 
@@ -55,13 +55,13 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
   Xueluan Gong*, **Mingzhe Li\***, Yilin Zhang, Fengyuan Ran, Chen Chen, Yanjiao Chen, Qian Wang, Kwok-Yan Lam
 
-  ***Usenix Security 2025***, **\* indicates equal contribution**
+  ***34th Usenix Security Symposium (USenix Security 2025)***, **\* indicates equal contribution**
 
 - **[Augmenting Model Extraction Attacks against Disruption-Based Defenses](https://ieeexplore.ieee.org/document/10793405)** 
 
   Xueluan Gong, Shuaike Li, Yanjiao Chen,  **Mingzhe Li**, Rubin Wei, Qian Wang and Kwok Yan Lam
 
-  ***Transactions on Information Forensics & Security (TIFS)***
+  ***IEEE Transactions on Information Forensics & Security (TIFS 2025)***
 
 # 🎖 Honors and Awards
 - Outstanding Undergraduate Graduate, WHU    Apr. 2025
