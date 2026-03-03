@@ -31,13 +31,20 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 
 # 🔥 News
-- *2026.02* &nbsp;&nbsp;🎉🎉 1 paper is accepted to CVPR 2026.
-- *2025.11* &nbsp;🚀🚀 PROMPTMINER released — code is now open-sourced.
+- *2026.023 &nbsp;&nbsp;🔥🔥 **Metastate** is available as a preprint.
+- *2026.02* &nbsp;&nbsp;🎉🎉 **PROMPTMINER** is accepted to CVPR 2026.
+- *2025.11* &nbsp;🚀🚀 **PROMPTMINER** released — code is now open-sourced.
 - *2025.04* &nbsp;🏆🏆  I am selected as an outstanding undergraduate graduate.
-- *2025.01*: &nbsp;🎉🎉  1 paper is accepted to Usenix Security 2025.
+- *2025.01*: &nbsp;🎉🎉  **PAPILLON** is accepted to Usenix Security 2025.
 - *2024.12*: &nbsp;🎉🎉  1 paper is accepted to IEEE TIFS 2025.
 
 # 📝 Publications 
+
+- **[MetaState: Persistent Working Memory for Discrete Diffusion Language Models](https://arxiv.org/abs/2603.01331)**
+
+  Kejing Xia, **Mingzhe Li**, Lixuan Wei, Zhenbang Du, Xiangchi Yuan, Qirui Jin, Wenke Lee
+
+  ***Preprint***
 
 - **[PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization](https://www.arxiv.org/abs/2511.22119)**
 
