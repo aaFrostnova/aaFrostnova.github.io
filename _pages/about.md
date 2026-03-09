@@ -31,7 +31,7 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 
 # 🔥 News
-- *2026.023 &nbsp;&nbsp;🔥🔥 **Metastate** is available as a preprint.
+- *2026.03* &nbsp;&nbsp;🔥🔥 **Metastate** is available as a preprint.
 - *2026.02* &nbsp;&nbsp;🎉🎉 **PROMPTMINER** is accepted to CVPR 2026.
 - *2025.11* &nbsp;🚀🚀 **PROMPTMINER** released — code is now open-sourced.
 - *2025.04* &nbsp;🏆🏆  I am selected as an outstanding undergraduate graduate.
@@ -50,7 +50,7 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
   **Mingzhe Li**, Renhao Zhang, Zhiyang Wen, Siqi Pan, Bruno Castro da Silva, Juan Zhai, Shiqing Ma
 
-  ***Conference on Computer Vision and Pattern Recognition (CVPR 2026)***
+  ***Conference on Computer Vision and Pattern Recognition (CVPR 2026, main)***
 
 - **[EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models](https://arxiv.org/abs/2506.03067)**
 
