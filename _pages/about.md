@@ -24,14 +24,11 @@ Hello👋! I am Mingzhe Li(李明哲), a first-year Ph.D student at [University 
 
 I received my B.Eng in Cyberspace Security from [Wuhan University](https://cse.whu.edu.cn) in 2025. Before my time at WHU, I completed three years of study at the No.1 Middle School Affiliated to Central China Normal University [（华中师大一附中）](https://www.hzsdyfz.com.cn). 
 
-My research focuses on **artificial intelligence security and privacy, Responsible Generative AI, Large Language Models**.
-
-**Actively seeking Summer 2026 internship opportunities — please feel free to reach out!**
+My research focuses on **artificial intelligence security and privacy, Responsible Generative AI, and Agentic AI.**
 
 
 
 # 🔥 News
-- *2026.03* &nbsp;&nbsp;🔥🔥 **Metastate** is available as a preprint.
 - *2026.02* &nbsp;&nbsp;🎉🎉 **PROMPTMINER** is accepted to CVPR 2026.
 - *2025.11* &nbsp;🚀🚀 **PROMPTMINER** released — code is now open-sourced.
 - *2025.04* &nbsp;🏆🏆  I am selected as an outstanding undergraduate graduate.
