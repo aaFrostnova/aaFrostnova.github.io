@@ -29,13 +29,26 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 
 
 # 🔥 News
+- *2026.05* &nbsp;🚀🚀 **[CiteTracer](https://github.com/aaFrostnova/CiteTracer)** released — code and dataset are now open-sourced.
 - *2026.02* &nbsp;&nbsp;🎉🎉 **PROMPTMINER** is accepted to CVPR 2026.
-- *2025.11* &nbsp;🚀🚀 **PROMPTMINER** released — code is now open-sourced.
+- *2025.11* &nbsp;🚀🚀 **[PROMPTMINER](https://github.com/aaFrostnova/PromptMiner)** released — code is now open-sourced.
 - *2025.04* &nbsp;🏆🏆  I am selected as an outstanding undergraduate graduate.
-- *2025.01*: &nbsp;🎉🎉  **PAPILLON** is accepted to Usenix Security 2025.
+- *2025.01*: &nbsp;🎉🎉  **[PAPILLON](https://github.com/aaFrostnova/Papillon)** is accepted to Usenix Security 2025.
 - *2024.12*: &nbsp;🎉🎉  1 paper is accepted to IEEE TIFS 2025.
 
 # 📝 Publications 
+
+- **[Source or It Didn't Happen: A Multi-Agent Framework for Citation Hallucination Detection](https://arxiv.org/abs/2605.08583)**
+
+  **Mingzhe Li**, Zhiqiang Lin, Shiqing Ma
+
+  ***Preprint***
+
+- **[Membership Inference Attacks on Vision-Language-Action Models](https://arxiv.org/html/2605.07088v1)**
+
+  Yuefeng Peng\*, **Mingzhe Li\***, Kejing Xia, Renhao Zhang, Amir Houmansadr
+
+  ***Preprint,*** **\* indicates equal contribution**
 
 - **[MetaState: Persistent Working Memory for Discrete Diffusion Language Models](https://arxiv.org/abs/2603.01331)**
 
