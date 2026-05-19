@@ -26,6 +26,8 @@ I received my B.Eng in Cyberspace Security from [Wuhan University](https://cse.w
 
 My research focuses on **artificial intelligence security and privacy, Responsible Generative AI, and Agentic AI.**
 
+You can find my [CV here](https://drive.google.com/uc?export=download&id=1Jf5hgSD3TvGQ8l3M5ivik7ywHAGN_0vZ) (updated May 20, 2026).
+
 
 
 # 🔥 News
@@ -36,49 +38,59 @@ My research focuses on **artificial intelligence security and privacy, Responsib
 - *2025.01*: &nbsp;🎉🎉  **[PAPILLON](https://github.com/aaFrostnova/Papillon)** is accepted to Usenix Security 2025.
 - *2024.12*: &nbsp;🎉🎉  1 paper is accepted to IEEE TIFS 2025.
 
-# 📝 Publications 
+# 📝 Selected Publications
 
-- **[Source or It Didn't Happen: A Multi-Agent Framework for Citation Hallucination Detection](https://arxiv.org/abs/2605.08583)**
+For the full publication list, please see my [CV](https://drive.google.com/uc?export=download&id=1Jf5hgSD3TvGQ8l3M5ivik7ywHAGN_0vZ).
 
-  **Mingzhe Li**, Zhiqiang Lin, Shiqing Ma
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview/citetracer_small.jpg' alt="citetracer" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  ***Preprint***
+[**Source or It Didn't Happen: A Multi-Agent Framework for Citation Hallucination Detection**](https://arxiv.org/abs/2605.08583)
 
-- **[Membership Inference Attacks on Vision-Language-Action Models](https://arxiv.org/html/2605.07088v1)**
+**Mingzhe Li**, Zhiqiang Lin, Shiqing Ma
 
-  Yuefeng Peng\*, **Mingzhe Li\***, Kejing Xia, Renhao Zhang, Amir Houmansadr
+***Preprint***
+</div></div>
 
-  ***Preprint,*** **\* indicates equal contribution**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/overview/PromptMiner.png' alt="promptminer" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **[MetaState: Persistent Working Memory for Discrete Diffusion Language Models](https://arxiv.org/abs/2603.01331)**
+[**PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization**](https://www.arxiv.org/abs/2511.22119)
 
-  Kejing Xia, **Mingzhe Li**, Lixuan Wei, Zhenbang Du, Xiangchi Yuan, Qirui Jin, Wenke Lee
+**Mingzhe Li**, Renhao Zhang, Zhiyang Wen, Siqi Pan, Bruno Castro da Silva, Juan Zhai, Shiqing Ma
 
-  ***Preprint***
+***Conference on Computer Vision and Pattern Recognition (CVPR 2026, main)***
+</div></div>
 
-- **[PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization](https://www.arxiv.org/abs/2511.22119)**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview/EDITOR_small.jpg' alt="editor" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  **Mingzhe Li**, Renhao Zhang, Zhiyang Wen, Siqi Pan, Bruno Castro da Silva, Juan Zhai, Shiqing Ma
+[**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**](https://arxiv.org/abs/2506.03067)
 
-  ***Conference on Computer Vision and Pattern Recognition (CVPR 2026, main)***
+**Mingzhe Li**, Kejing Xia, Gehao Zhang, Zhenting Wang, Guanhong Tao, Siqi Pan, Juan Zhai, Shiqing Ma
 
-- **[EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models](https://arxiv.org/abs/2506.03067)**
+***Preprint***
+</div></div>
 
-  **Mingzhe Li**, Kejing Xia, Gehao Zhang, Zhenting Wang, Guanhong Tao, Siqi Pan, Juan Zhai, Shiqing Ma
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2025</div><img src='images/overview/Papillon.png' alt="papillon" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  ***Preprint***
+[**PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs**](https://arxiv.org/abs/2409.14866)
 
-- **[PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs](https://arxiv.org/abs/2409.14866)**
+Xueluan Gong\*, **Mingzhe Li\***, Yilin Zhang, Fengyuan Ran, Chen Chen, Yanjiao Chen, Qian Wang, Kwok-Yan Lam
 
-  Xueluan Gong*, **Mingzhe Li\***, Yilin Zhang, Fengyuan Ran, Chen Chen, Yanjiao Chen, Qian Wang, Kwok-Yan Lam
+***34th Usenix Security Symposium (USENIX Security 2025)***, **\* indicates equal contribution**
+</div></div>
 
-  ***34th Usenix Security Symposium (USenix Security 2025)***, **\* indicates equal contribution**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/overview/Augument_small.jpg' alt="augmenting" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **[Augmenting Model Extraction Attacks against Disruption-Based Defenses](https://ieeexplore.ieee.org/document/10793405)** 
+[**Augmenting Model Extraction Attacks against Disruption-Based Defenses**](https://ieeexplore.ieee.org/document/10793405)
 
-  Xueluan Gong, Shuaike Li, Yanjiao Chen,  **Mingzhe Li**, Rubin Wei, Qian Wang and Kwok Yan Lam
+Xueluan Gong, Shuaike Li, Yanjiao Chen, **Mingzhe Li**, Rubin Wei, Qian Wang and Kwok Yan Lam
 
-  ***IEEE Transactions on Information Forensics & Security (TIFS 2025)***
+***IEEE Transactions on Information Forensics & Security (TIFS 2025)***
+</div></div>
 
 # 🎖 Honors and Awards
 - Outstanding Undergraduate Graduate, WHU    Apr. 2025
