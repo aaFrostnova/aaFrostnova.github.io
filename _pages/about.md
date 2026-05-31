@@ -26,7 +26,7 @@ I received my B.Eng in Cyberspace Security from [Wuhan University](https://cse.w
 
 My research focuses on **artificial intelligence security and privacy, Responsible Generative AI, and Agentic AI.**
 
-You can find my [CV here](https://drive.google.com/uc?export=download&id=1Jf5hgSD3TvGQ8l3M5ivik7ywHAGN_0vZ) (updated May 20, 2026).
+You can find my [CV here](https://drive.google.com/file/d/1Jf5hgSD3TvGQ8l3M5ivik7ywHAGN_0vZ/view?usp=sharing) (updated May 20, 2026).
 
 
 
@@ -40,7 +40,7 @@ You can find my [CV here](https://drive.google.com/uc?export=download&id=1Jf5hgS
 
 # 📝 Selected Publications
 
-For the full publication list, please see my [CV](https://drive.google.com/uc?export=download&id=1Jf5hgSD3TvGQ8l3M5ivik7ywHAGN_0vZ).
+For the full publication list, please see my [CV](https://drive.google.com/file/d/1Jf5hgSD3TvGQ8l3M5ivik7ywHAGN_0vZ/view?usp=sharing).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview/citetracer_small.jpg' alt="citetracer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
