@@ -50,6 +50,18 @@ For the full publication list, please see my [CV](https://drive.google.com/uc?ex
 **Mingzhe Li**, Zhiqiang Lin, Shiqing Ma
 
 ***Preprint***
+
+[**Code**](https://github.com/aaFrostnova/CiteTracer)
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview/illus_small.jpg' alt="membership-inference" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Membership Inference Attacks on Vision-Language-Action Models**](https://arxiv.org/abs/2605.07088)
+
+Yuefeng Peng\*, **Mingzhe Li\***, Kejing Xia, Renhao Zhang, Amir Houmansadr
+
+***Preprint,*** **\* indicates equal contribution**
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/overview/PromptMiner.png' alt="promptminer" width="100%"></div></div>
@@ -60,6 +72,8 @@ For the full publication list, please see my [CV](https://drive.google.com/uc?ex
 **Mingzhe Li**, Renhao Zhang, Zhiyang Wen, Siqi Pan, Bruno Castro da Silva, Juan Zhai, Shiqing Ma
 
 ***Conference on Computer Vision and Pattern Recognition (CVPR 2026, main)***
+
+[**Code**](https://github.com/aaFrostnova/PromptMiner)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview/EDITOR_small.jpg' alt="editor" width="100%"></div></div>
@@ -70,6 +84,8 @@ For the full publication list, please see my [CV](https://drive.google.com/uc?ex
 **Mingzhe Li**, Kejing Xia, Gehao Zhang, Zhenting Wang, Guanhong Tao, Siqi Pan, Juan Zhai, Shiqing Ma
 
 ***Preprint***
+
+[**Code**](https://github.com/aaFrostnova/EDITOR)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2025</div><img src='images/overview/Papillon.png' alt="papillon" width="100%"></div></div>
@@ -80,6 +96,8 @@ For the full publication list, please see my [CV](https://drive.google.com/uc?ex
 Xueluan Gong\*, **Mingzhe Li\***, Yilin Zhang, Fengyuan Ran, Chen Chen, Yanjiao Chen, Qian Wang, Kwok-Yan Lam
 
 ***34th Usenix Security Symposium (USENIX Security 2025)***, **\* indicates equal contribution**
+
+[**Code**](https://github.com/aaFrostnova/Papillon)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='images/overview/Augument_small.jpg' alt="augmenting" width="100%"></div></div>
