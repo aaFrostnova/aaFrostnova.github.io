@@ -31,6 +31,7 @@ You can find my [CV here](https://drive.google.com/file/d/1Jf5hgSD3TvGQ8l3M5ivik
 
 
 # 🔥 News
+- *2026.07* &nbsp;&nbsp;🎉🎉 **[MetaState](https://arxiv.org/abs/2603.01331)** is accepted to COLM 2026.
 - *2026.05* &nbsp;🚀🚀 **[CiteTracer](https://github.com/aaFrostnova/CiteTracer)** released — code and dataset are now open-sourced.
 - *2026.02* &nbsp;&nbsp;🎉🎉 **PROMPTMINER** is accepted to CVPR 2026. See you in Denver!
 - *2025.11* &nbsp;🚀🚀 **[PROMPTMINER](https://github.com/aaFrostnova/PromptMiner)** released — code is now open-sourced.
@@ -62,6 +63,16 @@ For the full publication list, please see my [CV](https://drive.google.com/file/
 Yuefeng Peng\*, **Mingzhe Li\***, Kejing Xia, Renhao Zhang, Amir Houmansadr
 
 ***Preprint,*** **\* indicates equal contribution**
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/overview/MetaState.png' alt="metastate" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**MetaState: Persistent Working Memory Enhances Reasoning in Discrete Diffusion Language Models**](https://arxiv.org/abs/2603.01331)
+
+Kejing Xia, **Mingzhe Li**, Lixuan Wei, Zhenbang Du, Xiangchi Yuan, Dachuan Shi, Qirui Jin, Wenke Lee
+
+***Conference on Language Modeling (COLM 2026)***
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/overview/PromptMiner.png' alt="promptminer" width="100%"></div></div>
