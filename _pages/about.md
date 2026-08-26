@@ -31,6 +31,7 @@ You can find my [CV here](https://drive.google.com/file/d/1Jf5hgSD3TvGQ8l3M5ivik
 
 
 # 🔥 News
+- *2026.08* &nbsp;&nbsp;🎉🎉 1 paper is accepted to ***EMNLP 2026***.
 - *2026.05* &nbsp;🚀🚀 **[CiteTracer](https://github.com/aaFrostnova/CiteTracer)** released — code and dataset are now open-sourced.
 - *2026.02* &nbsp;&nbsp;🎉🎉 **PROMPTMINER** is accepted to ***CVPR 2026***. See you in Denver!
 - *2025.11* &nbsp;🚀🚀 **[PROMPTMINER](https://github.com/aaFrostnova/PromptMiner)** released — code is now open-sourced.
