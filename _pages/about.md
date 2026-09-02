@@ -32,6 +32,7 @@ You can find my [CV here](https://drive.google.com/file/d/1Jf5hgSD3TvGQ8l3M5ivik
 
 # 🔥 News
 - *2026.08* &nbsp;&nbsp;🎉🎉 1 paper is accepted to ***EMNLP 2026***.
+- *2026.07* &nbsp;&nbsp;🎉🎉 1 paper is accepted to ***COLM 2026***.
 - *2026.05* &nbsp;🚀🚀 **[CiteTracer](https://github.com/aaFrostnova/CiteTracer)** released — code and dataset are now open-sourced.
 - *2026.02* &nbsp;&nbsp;🎉🎉 **PROMPTMINER** is accepted to ***CVPR 2026***. See you in Denver!
 - *2025.11* &nbsp;🚀🚀 **[PROMPTMINER](https://github.com/aaFrostnova/PromptMiner)** released — code is now open-sourced.
@@ -63,6 +64,18 @@ For the full publication list, please see my [CV](https://drive.google.com/file/
 Yuefeng Peng\*, **Mingzhe Li\***, Kejing Xia, Renhao Zhang, Amir Houmansadr
 
 ***Preprint,*** **\* indicates equal contribution**
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/overview/DisappearingInk.png' alt="disappearing-ink" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Disappearing Ink: Obfuscation Breaks N-gram Code Watermarks in Theory and Practice**](https://arxiv.org/abs/2507.05512)
+
+Gehao Zhang, **Mingzhe Li**, Eugene Bagdasarian, Shiqing Ma, Juan Zhai
+
+***Conference on Empirical Methods in Natural Language Processing (EMNLP 2026, Findings)***
+
+[**Code**](https://github.com/zhang-ge-hao/CodeWM)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/overview/PromptMiner.png' alt="promptminer" width="100%"></div></div>
