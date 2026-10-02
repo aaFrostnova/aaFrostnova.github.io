@@ -31,6 +31,7 @@ You can find my [CV here](https://drive.google.com/file/d/1Jf5hgSD3TvGQ8l3M5ivik
 
 
 # 🔥 News
+- *2026.10* &nbsp;🚀🚀 **[TAILOR](https://arxiv.org/abs/2610.00780)** released: [code](https://github.com/aaFrostnova/Tailor) is now open-sourced.
 - *2026.08* &nbsp;&nbsp;🎉🎉 1 paper is accepted to ***EMNLP 2026***.
 - *2026.07* &nbsp;&nbsp;🎉🎉 1 paper is accepted to ***COLM 2026***.
 - *2026.05* &nbsp;🚀🚀 **[CiteTracer](https://github.com/aaFrostnova/CiteTracer)** released — code and dataset are now open-sourced.
@@ -43,6 +44,18 @@ You can find my [CV here](https://drive.google.com/file/d/1Jf5hgSD3TvGQ8l3M5ivik
 # 📝 Selected Publications
 
 For the full publication list, please see my [CV](https://drive.google.com/file/d/1Jf5hgSD3TvGQ8l3M5ivik7ywHAGN_0vZ/view?usp=sharing).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview/Tailor.png' alt="tailor" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Made to Measure: Designing Image Watermarks to Specification**](https://arxiv.org/abs/2610.00780)
+
+**Mingzhe Li**, Yuefeng Peng, Kejing Xia, Pranav Jeyakumar, Ruolan Leslie Famularo, Shiqing Ma
+
+***Preprint***
+
+[**Code**](https://github.com/aaFrostnova/Tailor)
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview/citetracer_small.jpg' alt="citetracer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -141,3 +154,12 @@ Xueluan Gong, Shuaike Li, Yanjiao Chen, **Mingzhe Li**, Rubin Wei, Qian Wang and
 
 # 💻 Internships
 - *2025.02 - 2025.06*, [ByteDance](https://www.bytedance.com/zh/), Shenzhen, China.
+
+# 📚 Teaching
+- *2026 Summer*, Teaching Assistant, COMPSCI 683: Artificial Intelligence, [University of Massachusetts, Amherst](https://www.umass.edu)
+- *2026 Summer*, Teaching Assistant, COMPSCI 426: Scalable Web Systems, [University of Massachusetts, Amherst](https://www.umass.edu)
+- *2025 Fall*, Teaching Assistant, COMPSCI 520: Theory and Practice of Software Engineering, [University of Massachusetts, Amherst](https://www.umass.edu)
+
+# 🤝 Service
+- Reviewer, International Conference on Learning Representations (ICLR 2027)
+- Sub-reviewer, USENIX Security Symposium 2026 (Cycle 1)
