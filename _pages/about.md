@@ -153,12 +153,12 @@ Xueluan Gong, Shuaike Li, Yanjiao Chen, **Mingzhe Li**, Rubin Wei, Qian Wang and
 
 
 # 💻 Internships
-- *2025.02 - 2025.06*, [ByteDance](https://www.bytedance.com/zh/), Shenzhen, China.
+- *2025.02 - 2025.06*, Research & Development Intern, [ByteDance](https://www.bytedance.com/zh/), Shenzhen, China. Worked on AI security.
 
 # 📚 Teaching
-- *2026 Summer*, Teaching Assistant, COMPSCI 683: Artificial Intelligence, [University of Massachusetts, Amherst](https://www.umass.edu)
-- *2026 Summer*, Teaching Assistant, COMPSCI 426: Scalable Web Systems, [University of Massachusetts, Amherst](https://www.umass.edu)
-- *2025 Fall*, Teaching Assistant, COMPSCI 520: Theory and Practice of Software Engineering, [University of Massachusetts, Amherst](https://www.umass.edu)
+- *2026 Summer*, Teaching Assistant, COMPSCI 683: Artificial Intelligence, UMass Amherst
+- *2026 Summer*, Teaching Assistant, COMPSCI 426: Scalable Web Systems, UMass Amherst
+- *2025 Fall*, Teaching Assistant, COMPSCI 520: Theory and Practice of Software Engineering, UMass Amherst
 
 # 🤝 Service
 - Reviewer, International Conference on Learning Representations (ICLR 2027)
