@@ -26,7 +26,7 @@ I received my B.Eng in Cyberspace Security from [Wuhan University](https://cse.w
 
 My research focuses on **artificial intelligence security and privacy, Responsible Generative AI, and Agentic AI.**
 
-You can find my [CV here](https://drive.google.com/file/d/1Jf5hgSD3TvGQ8l3M5ivik7ywHAGN_0vZ/view?usp=sharing) (updated May 20, 2026).
+You can find my [CV here](https://drive.google.com/file/d/1Jf5hgSD3TvGQ8l3M5ivik7ywHAGN_0vZ/view?usp=sharing).
 
 <small>I am actively looking for a research internship for Summer 2027. Feel free to reach out!</small>
 
