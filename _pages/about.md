@@ -59,7 +59,7 @@ For the full publication list, please see my [CV](https://drive.google.com/file/
 [**Code**](https://github.com/aaFrostnova/Tailor)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview/citetracer_small.jpg' alt="citetracer" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview/citetracer.png' alt="citetracer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Source or It Didn't Happen: A Multi-Agent Framework for Citation Hallucination Detection**](https://arxiv.org/abs/2605.08583)
@@ -81,7 +81,7 @@ Yuefeng Peng\*, **Mingzhe Li\***, Kejing Xia, Renhao Zhang, Amir Houmansadr
 ***Preprint,*** **\* indicates equal contribution**
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/overview/DisappearingInk.png' alt="disappearing-ink" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/overview/DisappearingInk.png' alt="disappearing-ink" width="65%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Disappearing Ink: Obfuscation Breaks N-gram Code Watermarks in Theory and Practice**](https://arxiv.org/abs/2507.05512)
